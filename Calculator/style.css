@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #2C365E;
+    color: #DCE1DE;
+}
+
+.one{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3.5px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: #1A659E;
+    font-size: 25px;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    width: 291px;
+    font-size: 19px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #484D6D;
+}
+.container{
+    background-color: #1F2421;
+    width: 500px;
+    height: 600px;
+    border-radius: 10%;
+    border: 3px solid #DCE1DE;
+}
+
+.upper{
+    margin-bottom: 2px;
+    margin-right: 75px;
+}

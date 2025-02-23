@@ -1,0 +1,16 @@
+.centerone{
+    text-align: center;
+    font-size: 50px;
+}
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+display: flex;
+justify-content: center;
+align-items: center;
+} 
+.flex-col{
+    flex-direction: column;
+}
